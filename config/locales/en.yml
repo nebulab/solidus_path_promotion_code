@@ -3,3 +3,6 @@
 
 en:
   hello: Hello world
+  path_promotion_code:
+    url: URL Path
+    redeem_from_store_controller: "Do you want check this URL path on Store Controller ?"

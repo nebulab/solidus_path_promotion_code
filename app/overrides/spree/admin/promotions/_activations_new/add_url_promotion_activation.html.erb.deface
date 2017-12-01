@@ -1,0 +1,8 @@
+<!-- insert_bottom '#js_promotion_activation .col-3' -->
+
+<div class="form-check">
+  <label class="form-check-label">
+    <%= radio_button_tag('activation_type', 'url_path', activation_type == 'url_path') %>
+    <%= t('path_promotion_code.url') %>
+  </label>
+</div>
